@@ -29,9 +29,9 @@ src/
 
 ## 💻 Exemplo de Execução
 
-```text
-
 ![Execução do Programa](images/execution-example.png)
+
+```text
 
 Enter product data:
 
