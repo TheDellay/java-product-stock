@@ -30,6 +30,9 @@ src/
 ## 💻 Exemplo de Execução
 
 ```text
+
+![Execução do Programa](images/execution-example.png)
+
 Enter product data:
 
 Name: TV
